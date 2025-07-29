@@ -1,0 +1,12 @@
+Transaction ID,Transaction
+T1,"Bananas,Pears,Apples"
+T2,"Bananas,Pears,Apples"
+T3,"Bananas,Pears,Apples,Oranges,Cucumber"
+T4,"Bananas,Pears,Apples,Oranges,Blueberries"
+T5,"Bananas,Pears,Oranges,Blueberries"
+T6,"Bananas,Oranges,Blueberries"
+T7,"Bananas,Blueberries"
+T8,"Bananas,Blueberries,Cucumber"
+T9,"Bananas,Apples,Blueberries"
+T10,"Bananas,Apples,Blueberries"
+T11,"Bananas,Apples,Blueberries,Cucumber"
